@@ -1,0 +1,6 @@
+c:\users\mallr9\documents\visual studio 2015\Projects\LongestWordCheck\LongestWordCheck\bin\Debug\LongestWordCheck.exe.config
+c:\users\mallr9\documents\visual studio 2015\Projects\LongestWordCheck\LongestWordCheck\bin\Debug\LongestWordCheck.exe
+c:\users\mallr9\documents\visual studio 2015\Projects\LongestWordCheck\LongestWordCheck\bin\Debug\LongestWordCheck.pdb
+c:\users\mallr9\documents\visual studio 2015\Projects\LongestWordCheck\LongestWordCheck\obj\Debug\LongestWordCheck.exe
+c:\users\mallr9\documents\visual studio 2015\Projects\LongestWordCheck\LongestWordCheck\obj\Debug\LongestWordCheck.pdb
+C:\Users\mallr9\documents\visual studio 2015\Projects\LongestWordCheck\LongestWordCheck\obj\Debug\LongestWordCheck.csprojResolveAssemblyReference.cache
